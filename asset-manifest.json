@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/crypto-bots/static/css/main.d98de6a8.css",
+    "main.js": "/crypto-bots/static/js/main.622505eb.js",
+    "static/media/Montserrat-Regular.woff": "/crypto-bots/static/media/Montserrat-Regular.2a2d37bf7680d86811db.woff",
+    "static/media/Montserrat-Regular.woff2": "/crypto-bots/static/media/Montserrat-Regular.2a2d37bf7680d86811db.woff2",
+    "static/media/Montserrat-Bold.woff": "/crypto-bots/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.woff",
+    "static/media/Montserrat-Bold.woff2": "/crypto-bots/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.woff2",
+    "static/media/Montserrat-SemiBold.woff": "/crypto-bots/static/media/Montserrat-SemiBold.2f7a846126c7d5ee9163.woff",
+    "static/media/Montserrat-SemiBold.woff2": "/crypto-bots/static/media/Montserrat-SemiBold.2f7a846126c7d5ee9163.woff2",
+    "static/media/Montserrat-Medium.woff": "/crypto-bots/static/media/Montserrat-Medium.647f0e61af3a76a138c3.woff",
+    "static/media/Montserrat-Medium.woff2": "/crypto-bots/static/media/Montserrat-Medium.647f0e61af3a76a138c3.woff2",
+    "static/media/logo.svg": "/crypto-bots/static/media/logo.d7937cb7f8fd90e43f1076c0edaf6464.svg",
+    "static/media/0.svg": "/crypto-bots/static/media/0.fbd5f073cfdf5a9e780a3ba1bde4a8de.svg",
+    "static/media/2.svg": "/crypto-bots/static/media/2.f366a9586b54e255f932277aa5aea12d.svg",
+    "static/media/3.svg": "/crypto-bots/static/media/3.9913ec987166ae5d447596cdc94c0941.svg",
+    "static/media/dollar-sign.svg": "/crypto-bots/static/media/dollar-sign.d97383a03270b84c14d5fd5e75883c17.svg",
+    "static/media/user.svg": "/crypto-bots/static/media/user.f540a9c7075f05737c678d1d8effdc2b.svg",
+    "static/media/log-out.svg": "/crypto-bots/static/media/log-out.b91c7623785c65a6083ca82cb9b0e3aa.svg",
+    "static/media/plus-square.svg": "/crypto-bots/static/media/plus-square.ba4ebf866fea373ad77024d3b6225fde.svg",
+    "static/media/binance.svg": "/crypto-bots/static/media/binance.b75108ae2d424d7858752a87073d90bf.svg",
+    "static/media/home.svg": "/crypto-bots/static/media/home.d349d3d8695076b73bef1bfc541fb3cf.svg",
+    "index.html": "/crypto-bots/index.html",
+    "static/media/arrow-left.svg": "/crypto-bots/static/media/arrow-left.47dd722313459d673491.svg",
+    "static/media/x.svg": "/crypto-bots/static/media/x.83cd3e0b0b56c8bc37bde45a2cde5156.svg",
+    "static/media/zap.svg": "/crypto-bots/static/media/zap.3143bbcd6b8ddd35d129a77dcdcb618e.svg",
+    "static/media/1.svg": "/crypto-bots/static/media/1.89af024a772c59c8b2c10f0dcb0ee36d.svg",
+    "main.d98de6a8.css.map": "/crypto-bots/static/css/main.d98de6a8.css.map",
+    "main.622505eb.js.map": "/crypto-bots/static/js/main.622505eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d98de6a8.css",
+    "static/js/main.622505eb.js"
+  ]
+}
