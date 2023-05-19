@@ -1,5 +1,6 @@
 {
-  "name": "test-verst",
+  "name": "crypto-bots",
+  "homepage": "https://xyesey.github.io/crypto-bots/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
