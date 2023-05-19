@@ -1,0 +1,10 @@
+.main-page__block1 {
+  background-color: #fff;
+  width: 300px;
+  height: 320px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  grid-area: P;
+  /* margin: 16px 0 16px 20px; */
+}

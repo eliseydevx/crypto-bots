@@ -1,0 +1,7 @@
+.panel__connect {
+  display: flex;
+  border-top: 1px solid #e6e6e6;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 17px;
+}

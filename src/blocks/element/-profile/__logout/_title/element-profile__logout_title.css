@@ -1,0 +1,10 @@
+.element-profile__logout_title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #fff;
+  margin: 0 0 0 15px;
+  white-space: nowrap;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.auth__close {
+  position: absolute;
+  top: 30px;
+  right: 37px;
+  cursor: pointer;
+}
+
+.auth__close:hover {
+  opacity: 0.7;
+}

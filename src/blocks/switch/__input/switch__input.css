@@ -1,0 +1,35 @@
+.switch__input {
+  position: relative;
+  width: 32px;
+  height: 18px;
+  -webkit-appearance: none;
+  outline: none;
+  background: #cdcdcd;
+  border: 1px solid #e6e6e6;
+  border-radius: 50px;
+  transition: 0.5s;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.switch__input:checked {
+  background: #9747ff;
+}
+
+.switch__input::before {
+  content: "";
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  border-radius: 20px;
+  top: 1.4px;
+  left: 2px;
+  background: #fff;
+  transition: 0.5s;
+  transform: scale(1.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.switch__input:checked::before {
+  left: 15px;
+}

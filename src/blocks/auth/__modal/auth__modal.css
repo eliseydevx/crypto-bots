@@ -1,0 +1,9 @@
+.auth__modal {
+  width: 470px;
+  height: 272px;
+  position: relative;
+  background: #fff;
+  border-radius: 8px;
+  top: 200px;
+  right: 160px;
+}

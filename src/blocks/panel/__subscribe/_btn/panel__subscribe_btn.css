@@ -1,0 +1,17 @@
+.panel__subscribe_btn {
+  background-color: #191919;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  margin: 7px 0 0 20px;
+  width: 142px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.panel__subscribe_btn:hover {
+  opacity: 0.8;
+}

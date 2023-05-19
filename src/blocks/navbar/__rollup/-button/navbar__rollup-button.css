@@ -1,0 +1,14 @@
+.navbar__rollup-button {
+  width: 24px;
+  height: 24px;
+  margin-left: 46px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  background-color: #292929;
+  background-image: url(../../../../image/arrow-left.svg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+}

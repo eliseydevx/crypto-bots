@@ -1,0 +1,18 @@
+.main-page {
+  /* margin-left: 200px; */
+  margin: auto auto auto 270px;
+  max-width: 100%;
+}
+
+@media screen and (min-width: 1200px) {
+  .main-page {
+    margin-left: 250px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .main-page {
+    margin-left: 360px;
+  }
+}
+

@@ -1,0 +1,7 @@
+.panel__notifications_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #f3f3f3;
+  /* margin-right: 20px; */
+}

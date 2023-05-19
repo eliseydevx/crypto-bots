@@ -1,0 +1,19 @@
+.navbar__menu_button {
+  width: 160px;
+  height: 46px;
+  color: #fff;
+  background-color: #292929;
+  border: none;
+  border-radius: 8px;
+  background-image: url(../../../image/home.svg);
+  background-repeat: no-repeat;
+  background-position-x: 12%;
+  background-position-y: 45%;
+  cursor: pointer;
+  margin: 0 0px 16px 18px;
+  /* margin-bottom: 16px; */
+}
+
+.navbar__menu_button:hover {
+    opacity: 0.8;
+}

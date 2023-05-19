@@ -1,0 +1,15 @@
+.element__position {
+  align-items: center;
+  display: flex;
+  padding-left: 39px;
+  cursor: pointer;
+}
+
+.element__position:last-child {
+  margin-top: 32px;
+}
+
+.element__position:hover {
+  background: #292929;
+  border-radius: 8px;
+}

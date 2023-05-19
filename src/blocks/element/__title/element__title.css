@@ -1,0 +1,14 @@
+.element__title {
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  list-style-type: none;
+  margin: 0;
+  /* margin-right: 20px; */
+}
+
+.element__title:hover {
+  opacity: 0.7;
+}

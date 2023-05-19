@@ -1,0 +1,17 @@
+.panel__btn-submit {
+  background-color: #191919;
+  border-radius: 8px;
+  width: 68px;
+  height: 31px;
+  color: #fff;
+  margin-left: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.panel__btn-submit:hover {
+  opacity: 0.8;
+}

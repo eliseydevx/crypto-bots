@@ -1,0 +1,12 @@
+.panel__connect-text {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15px;
+  margin: 9px 0 0 20px;
+  /* width: 70px; */
+  /* white-space: pre-line; */
+}
+
+span {
+  color: #9747ff;
+}

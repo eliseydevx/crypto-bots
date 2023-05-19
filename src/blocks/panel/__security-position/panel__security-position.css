@@ -1,0 +1,11 @@
+.panel__security-position {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 18px 20px 15px 0px;
+}
+
+.panel__security-position:last-child {
+  margin-top: 0px;
+  margin-bottom: 18px;
+}

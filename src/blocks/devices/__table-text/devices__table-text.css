@@ -1,0 +1,14 @@
+.devices__table-text {
+  list-style: none;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15px;
+  margin-top: 12px;
+}
+
+.devices__table-text:first-child {
+  margin: 0;
+}
+.devices__table-text:last-child {
+  margin-bottom: 12px;
+}

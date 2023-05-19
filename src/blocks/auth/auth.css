@@ -1,0 +1,10 @@
+.auth {
+  margin: auto auto auto 200px;
+  width: 100%;
+  height: 800px;
+  background-color: #292929;
+  /* align-items: center; */
+  justify-content: center;
+  display: flex;
+  position: relative;
+}

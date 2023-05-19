@@ -1,0 +1,5 @@
+.element-bots__position {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,29 @@
+.notifications__table-tr {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15px;
+  /* height: 47px; */
+  /* text-align: center;
+  max-width: 110px; */
+}
+th,
+td {
+  padding: 12px;
+  border-right: 1px solid #f3f3f3;
+  border-bottom: 1px solid #f3f3f3;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+  border-right: 1px solid #f3f3f3;
+  border-bottom: 1px solid #f3f3f3;
+}
+
+/* td:last-of-type {
+  border-right: none;
+  border-bottom: none;
+}
+th:last-of-type {
+  border-bottom: none;
+} */

@@ -1,0 +1,9 @@
+.navbar {
+  min-height: 110%;
+  width: 200px;
+  background-color: #191919;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}

@@ -1,0 +1,7 @@
+.panel__subscribe {
+  background-color: #a347ff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 110px;
+}

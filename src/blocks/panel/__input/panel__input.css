@@ -1,0 +1,9 @@
+.panel__input {
+  box-sizing: border-box;
+  width: 188px;
+  height: 31px;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  color: #cdcdcd;
+  margin: 8px 0 0 20px;
+}

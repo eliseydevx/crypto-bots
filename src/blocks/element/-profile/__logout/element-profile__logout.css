@@ -1,0 +1,9 @@
+.element-profile__logout {
+  display: flex;
+  padding: 0px 70px 0px 39px;
+  margin-top: 18px;
+}
+
+.element-profile__logout:hover {
+  opacity: 0.7;
+}

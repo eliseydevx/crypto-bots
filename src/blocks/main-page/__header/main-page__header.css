@@ -1,0 +1,14 @@
+.main-page__header {
+  color: #fff;
+  background-color: #191919;
+  width: 940px;
+  height: 48px;
+  margin: 32px 70px 16px 0px;
+  border-radius: 8px;
+}
+
+@media screen and(max-width: 1200px) {
+  .main-page__header {
+    width: 750px;
+  }
+}
