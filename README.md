@@ -1,3 +1,3 @@
 # CRYPTO-BOTS Test task
 
-DEPLOY: https://xyesey.github.io/main-page
+DEPLOY: https://xyesey.github.io/main-page/
